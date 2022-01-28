@@ -1,0 +1,1 @@
+bot: python dicebot.py
